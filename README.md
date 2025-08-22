@@ -1,0 +1,1 @@
+This commit includes PNG visualizations and the presentation transcript for "Breaking Free" — a personal, data-driven capstone project exploring resilience through self-tracking during a life crisis. Metrics include stress, health, and coping mechanisms such as smoking and alcohol. Presented on 22 August 2025.
