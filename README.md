@@ -2,7 +2,7 @@
 **A Data-Driven Journey Through Personal Crisis and Resilience**  
 *By Jalel Ben Abdallah*  
 
-This project is my Google Data Analytics Capstone — a personal, data-driven story about understanding and overcoming addiction and stress using self-tracking.
+This project is my Google Data Analytics Capstone, a personal, data-driven story about understanding and overcoming addiction and stress using self-tracking.
 
 ---
 
@@ -62,7 +62,7 @@ My goal: to find patterns, understand my reactions, and identify what truly help
 ### Slide 6  
 **The Key Insight: Data Reveals the Way Out**  
 > - My coping mechanism is the key. I will always make sure I don't lose it.  
-> - Bad experiences are not just a phase to forget — they are a source of insight.  
+> - Bad experiences are not just a phase to forget, they are a source of insight.  
 > - By measuring my pain, I learned to manage it.
 
 > 💡 Always cope, but always cope the right way.
