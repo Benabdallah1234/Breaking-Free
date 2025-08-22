@@ -2,42 +2,84 @@
 **A Data-Driven Journey Through Personal Crisis and Resilience**  
 *By Jalel Ben Abdallah*  
 
-This project is my Google Analytics Capstone — a deeply personal, data-focused exploration of how I navigated a difficult period in my life.
+This project is my Google Data Analytics Capstone — a personal, data-driven story about understanding and overcoming addiction and stress using self-tracking.
 
 ---
 
-## 📊 About the Project
+## 📊 Introduction
 
-For two years, I tracked key aspects of my daily life to understand and manage my personal challenges.
+Can self-tracking reveal the path to resilience?
 
-**Metrics tracked:**
+Over two years, I tracked:
 - Life events and major stressors
-- Coping mechanisms (e.g., cigarettes, alcohol)
+- Coping mechanisms (cigarettes, alcohol, etc.)
 - Physical health and stress levels
 
-**Goal:**  
-To identify patterns, understand how I coped, and find what actually helped me heal and move forward.
+My goal: to find patterns, understand my reactions, and identify what truly helped.
 
 ---
 
-## 🖼️ Slides
+## 🖼️ Full Presentation
 
-The project is visualized through a 7-slide presentation (see files above).
-
-You can view the slides here:
-- Slide1.PNG → Slide7.PNG
+### Slide 1  
+![Slide 1](Slide1.PNG)
 
 ---
 
-## 🧠 Key Insights
+### Slide 2  
+**Can Self-Tracking Reveal the Path to Resilience?**  
+*Jalel Ben Abdallah, Data Analyst Student*  
+> For two years, I tracked my life during a difficult period:
+> - Life events
+> - Stress levels
+> - Coping mechanisms (cigarettes, alcohol, etc.)
+> - Physical health
 
-> “Bad experiences aren’t just phases to survive — they’re sources of information for making better decisions.”
+> Goal: Find patterns, understand my reactions, and identify what truly helped.
 
-- Data helped me see when things got worse — and why.
-- By measuring my pain, I learned how to manage it.
-- Coping isn't weakness — but it has to be *intentional*.
+![Slide 2](Slide2.PNG)
 
 ---
 
-📅 **Presented on:** August 22, 2025  
-🎓 **Part of:** Google Data Analytics Certification
+### Slide 3  
+**When Life Intensifies, So Did My Coping Mechanisms**  
+![Slide 3](Slide3.PNG)
+
+---
+
+### Slide 4  
+**The Direct Cost: How Coping Mechanisms Affected My Health**  
+![Slide 4](Slide4.PNG)
+
+---
+
+### Slide 5  
+**Discovering What Actually Worked**  
+![Slide 5](Slide5.PNG)
+
+---
+
+### Slide 6  
+**The Key Insight: Data Reveals the Way Out**  
+> - My coping mechanism is the key. I will always make sure I don't lose it.  
+> - Bad experiences are not just a phase to forget — they are a source of insight.  
+> - By measuring my pain, I learned to manage it.
+
+> 💡 Always cope, but always cope the right way.
+
+![Slide 6](Slide6.PNG)
+
+---
+
+### Slide 7  
+**Thank You 🙏**  
+*Panel discussion & Questions*  
+![Slide 7](Slide7.PNG)
+
+---
+
+## 📅 Presented on: August 22, 2025  
+🎓 Part of the Google Data Analytics Capstone
+
+---
+
